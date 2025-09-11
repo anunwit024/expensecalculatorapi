@@ -42,7 +42,7 @@ while i < 4:
         print("Total Expense: ",Expense)
         
         print("Balance: ",Summary)     
-    elif Choose==4:
+    elif Choose==4:   
         break
     
 
