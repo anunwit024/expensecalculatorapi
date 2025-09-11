@@ -31,7 +31,7 @@ while i < 4:
         "Amount": amountValue,
         "Description": descriptionValue
         })
-        print("Transaction added successfully!")
+        print("Transaction added successfully!")   
     elif Choose==2:
         print("Transactions: ")
         for t in Listpay:
