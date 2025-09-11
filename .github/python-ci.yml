@@ -22,5 +22,7 @@ jobs:
           pip install -r requirements.txt || true
 
       - name: Run tests
+       
         run: |
+          pytest -s
           echo "✅ Tests passed!"
